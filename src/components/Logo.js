@@ -3,11 +3,11 @@ import './Logo.css'
 class Logo extends Component{
   render(){
     return(
-      <form>
+      <div className="contender">
        <div className="logo">
          Facebook
        </div>
-      </form>
+      </div>
     );
   }
 }
