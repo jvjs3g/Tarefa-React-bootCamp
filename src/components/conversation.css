@@ -1,0 +1,6 @@
+div.conversation{
+  border: 1px solid rgba(0,0,0,0.2);
+  line-height:200px;
+  margin-top:40px;
+  border-radius:20px;
+}

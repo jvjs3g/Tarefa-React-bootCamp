@@ -1,0 +1,10 @@
+div.contender{
+  background-color:white;
+  width:750px;
+  display: block;
+  margin-left:25px;
+  line-height:400px;
+  margin-top: 20px;
+  box-sizing: border-box;
+  border-radius:20px;
+}
