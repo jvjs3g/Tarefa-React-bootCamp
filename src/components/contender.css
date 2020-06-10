@@ -6,3 +6,16 @@ div.styleContender{
   margin-left:10px;
   border-radius:10px;
 }
+
+
+img.foto{
+  margin-left:20px;
+}
+
+div.linha{
+  display: block;
+  position: relative;
+  top:65px;
+  border-bottom: 1px solid rgba(0,0,0,.5);
+  margin:5px;
+}

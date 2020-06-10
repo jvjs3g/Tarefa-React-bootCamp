@@ -1,14 +1,24 @@
 div.styleMessage{
-  border: 1px solid black;
+
   height:124px;
   width:680px;
-  margin-top:115px;
+  margin-top:60px;
   margin-left:10px;
-  border-radius:10px;
+  padding:10px;
 
 }
 div img {
   border-radius: 100%;
   width:30px;
   margin:10px;
+}
+div.msg{
+  border:1px solid black;
+  width:620px;
+  height:105px;
+  top:-47px;
+  margin-left:50px;
+  border-radius: 25px;
+  position: relative;
+  background-color: rgba(0,0,0,0.1);
 }

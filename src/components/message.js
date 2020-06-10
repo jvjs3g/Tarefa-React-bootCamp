@@ -7,6 +7,7 @@ class message extends Component{
     return(
      <div className="styleMessage">
        <img src={file}/>
+       <div className="msg"></div>
      </div>
     );
   }
