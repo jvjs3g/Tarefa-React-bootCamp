@@ -1,16 +1,14 @@
-import React , { Component } from 'react'
-import './body.css'
-import Contender from '../components/contender';
-import Head from '../components/head';
+import React , { Component } from 'react';
+import Contender from './contender';
+import './body.css';
+
 class body extends Component{
   render(){
     return(
-      <div className="body">
-        <Head />
-        <Contender />
-      </div>
+     <div className="styleBody">
+       <Contender />
+     </div>
     );
   }
 }
-
 export default body;

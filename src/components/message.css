@@ -1,0 +1,14 @@
+div.styleMessage{
+  border: 1px solid black;
+  height:124px;
+  width:680px;
+  margin-top:115px;
+  margin-left:10px;
+  border-radius:10px;
+
+}
+div img {
+  border-radius: 100%;
+  width:30px;
+  margin:10px;
+}

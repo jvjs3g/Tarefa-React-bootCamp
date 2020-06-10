@@ -1,13 +1,19 @@
 import React, { Component } from 'react';
-import './contender.css';
-import Conversation from './conversation';
+import './contender.css'
+import Message from './message';
 class contender extends Component{
   render(){
     return(
       <>
-      <Conversation />
-      </>     
+      <div className="styleContender">
+        <Message/>
+      </div>
+
+      <div className="styleContender">
+        <Message/>
+      </div>
+      </>
     );
   }
 }
-export default contender; 
+export default contender;
